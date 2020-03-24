@@ -1,0 +1,13 @@
+ongratulations!
+You have successfully signed up
+
+Login: admin
+
+Password: Ob60D6D --> libingzeng
+
+URL: https://lit-plateau-02666.herokuapp.com/
+GitHub: https://github.com/libingzeng/typo
+
+Please write down a copy of this login and password as you will need it later. Normally we would email it to you as libingzeng@tamu.edu, however email services are likely not connected.
+
+Proceed to admin
